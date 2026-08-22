@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tripti-code479/E-Commerce-Data-Analysis/blob/main/notebooks/ECommerce_Data_Analysis.ipynb)
 # 🛒 E-Commerce Data Analysis Using Python
 
 ## 📌 Project Overview
